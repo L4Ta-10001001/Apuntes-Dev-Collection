@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "08c8fdfd831acb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "002a47c5dc5d7d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbd6e81ed1ada8fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc23116872a3018",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4ee3d8239c2966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1488e07dc1ca064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "775d8b0ba09ab1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eb00ae4b4ebfe075",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c821e130e26ccfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "d7e788db363d17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9029a163754aabf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ca206a5f3bbf57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 6 - Funciones Flecha"
+            }
+          },
+          {
+            "id": "cd501c08d0377f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 6 - Funciones Flecha"
+            }
+          },
+          {
+            "id": "5bbf9db33a641888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3a57587efa5796be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 6 - Funciones Flecha"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1488e07dc1ca064",
+  "lastOpenFiles": [
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md",
+    "Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/12 - Arrays y Objetos/0 - Lo Básico de los Arrays.md",
+    "images/Pasted image 20241015195923.png",
+    "Coding/JavaScript/0 - Conceptos Básicos/12 - Arrays y Objetos",
+    "images/Pasted image 20241015085544.png",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/4 - Scope o Ámbito de las Variables.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/5 - Hoisting.md",
+    "images/Pasted image 20241015085249.png",
+    "images/Pasted image 20241015085155.png",
+    "images/Pasted image 20241015084500.png",
+    "images/Pasted image 20241015084341.png",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/3 - Funciones Anónimas.md",
+    "images/Pasted image 20241014105335.png",
+    "images/Pasted image 20241014105541.png",
+    "images/Pasted image 20241014110117.png",
+    "images/Pasted image 20241014110241.png",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/1 - Parámetros.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/2 - Funciones dentro de Otras.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/0 - Funciones en Javascript.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos",
+    "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones en Javascript",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Ventanas y Alertas.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/7 - Tipos de Datos en JS.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/10 - Bucles en Javascript/1 - Bucle While.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/10 - Bucles en Javascript/0 - Bucle FOR.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/10 - Bucles en Javascript/2 - Bucle do While.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/0 - Ejecutar JavasCript.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/10 - Bucles en Javascript",
+    "Coding/JavaScript/0 - Conceptos Básicos/1 - Variables, Operadores, Funciones, Estructuras de control y Manipulación del DOM.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/9 - Condicionales/2 - Condicional Ternario.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/9 - Condicionales/1 - Condicional Switch.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/9 - Condicionales/0 - Condicional IF.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores/5 - Operadores de Incremento y Decremento.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/9 - Condicionales",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores/4 - Operadores de Comparación.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores/3 - Operadores de Asignación.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores/2 - Operadores Aritméticos.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores/1 - Operador Typeof.md",
+    "Coding/JavaScript/0 - Conceptos Básicos/8 - Operadores",
+    "Docker/DockerLabs/2 - Segundo Contenedor - walking CMS.md",
+    "Docker/DockerLabs/1 - Primer Contenedor - trust.md",
+    "conocimiento.zip",
+    "Archivador.zip",
+    "Archivador.zip.09q6s4",
+    "Hacking/CTF/Creación de CTF/Linux"
+  ]
+}
